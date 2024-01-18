@@ -4,7 +4,7 @@ I’ve started  learning Java language in november 2023 y. Here You will find 2 
 
 1.	Advanced Calculator:
       a.	Multi-operational (add, multiply, subtract, divide, pow, root),
-  	b.	With memory of made operations, which can be reseted.
+  	b.	With memory of done operations, which can be reseted.
 
 3.	Library Catalog:
       a.	Has set catalog of Books, which are characterized with Id, Title, Author Object, Array of Additional Authors and Popularity,
